@@ -1,6 +1,7 @@
 _G.Theme = "Light" --// Choose the theme you would like to use.
 _G.Style = "Top" --// Choose which menu style you would like to use.
 _G.Key = "" --// Enter your access key in between the quotes
+_G.ToggleKeybind = "v" --// Enter the key you would like to use to toggle the script.
 --[[
     A list of the supported themes are below. Feel free to try out all the themes until you find one you like :)
      -Dark
